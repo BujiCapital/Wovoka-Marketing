@@ -14,4 +14,8 @@ no unconfirmed figures, no client names, no prices or terms that are not publish
 | `messages.md` | Five messages, then the facts table: #, claim, value, as of, public source URL |
 | `brand.md` | Colour, type, logo (public URLs), on-screen data style, presenter, voice, sound, end card |
 | `guardrails.md` | "Never say or show" and "Always" lists |
+| `key-customer.md` | One composite customer: who, their week, what they want and don't, what wins them |
+| `content.md` | Public pages worth a video, with headlines |
+| `brand-kit/` | Logos, profile pictures, share cards (public files only) and a README |
+| `b-roll/` | Screen recordings of the product, a clip table, demo shots still to make |
 | `video/scripts.md` | Scripts as tables: time, Lee says, on screen, b-roll. Each with goal, facts used and caption |

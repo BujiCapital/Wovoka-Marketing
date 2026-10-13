@@ -11,6 +11,10 @@ Start here if you are making a video or a post for Carbon.Supply (https://carbon
 | [`brand.md`](brand.md) | Colours, type, logo, charts, presenter, sound |
 | [`guardrails.md`](guardrails.md) | What we never say or show |
 | [`video/scripts.md`](video/scripts.md) | Five video scripts and a repeatable short |
+| [`key-customer.md`](key-customer.md) | The one customer to picture when writing |
+| [`content.md`](content.md) | Every public page worth a video, with its headline |
+| [`brand-kit/`](brand-kit/) | Logos, profile pictures and share cards |
+| [`b-roll/`](b-roll/) | Screen recordings of the live site (16:9 and 9:16) and the demo shots still to make |
 
 ## Rules for this brand
 

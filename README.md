@@ -27,6 +27,10 @@ More brands will follow, one folder each, copied from [`_template/`](_template/)
 | `brand.md` | How a video looks and sounds: colours, type, logo, charts, presenter |
 | `guardrails.md` | What we never say or show |
 | `video/scripts.md` | Draft video scripts, scene by scene |
+| `key-customer.md` | The one customer to picture when writing |
+| `content.md` | Public pages worth a video, with their headlines |
+| `brand-kit/` | Logos, profile pictures, share cards |
+| `b-roll/` | Screen recordings and demo shots for video |
 
 ## Rules for every brand
 

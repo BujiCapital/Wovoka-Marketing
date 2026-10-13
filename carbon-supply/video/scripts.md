@@ -9,6 +9,8 @@ the date in the source stamp.
 right. Burned-in captions in IBM Plex Sans. Source stamp in IBM Plex Mono, bottom left, whenever a number is
 on screen. End card as in `brand.md`. Spoken lines run about 2.5 words a second.
 
+B-roll clips named below are in [`../b-roll/`](../b-roll/) (`landscape/` and `portrait/`).
+
 Render each in 1:1 first (LinkedIn and Facebook feed), then 9:16 from the same scenes.
 
 ---
