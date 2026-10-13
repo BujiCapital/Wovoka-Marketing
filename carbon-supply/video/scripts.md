@@ -115,3 +115,67 @@ The site publishes a story of the day from the registries. Any day's story can b
 | 20–25 s | "The full story is free at carbon dot supply." | End card |
 
 Take facts only from the published story page and list each one, with its link, alongside the draft.
+
+---
+
+# The WhatsApp analyst: hooks and two more scripts
+
+The analyst is the most "show, don't tell" thing we have: a phone, a question, an answer with a link. Lead
+with the job it does for the viewer, not with the technology.
+
+**What it does today** (F15, F16): answers questions on WhatsApp, by text, from our registry database, with
+the registry link. **Not yet:** voice calls (say "message", never "call"), prices, ratings or investment
+advice. It declines those, so a script never shows it doing them.
+
+## Hooks (first line on screen, first words spoken)
+
+| Hook | Angle |
+|---|---|
+| "Your Monday market summary, before your coffee." | Market summary |
+| "I asked WhatsApp what moved in Southeast Asia this week." | Market summary |
+| "Before every call, I ask one question: is this project still where they say it is?" | Deal pipeline |
+| "Ten projects on your list. One message. Every status, with the registry link." | Deal pipeline |
+| "The registries don't send you a text when a project stalls. This does, when you ask." | Quiet rows |
+| "A carbon analyst in your WhatsApp. It shows its sources." | The analyst itself |
+
+"Pipeline" here means **the viewer's own list of projects and developers they are tracking**. It never means
+Wovoka's raise, and the analyst never says what to buy (guardrails).
+
+---
+
+## 6. Your market summary on WhatsApp (~25 s, 9:16 first)
+
+Goal: WhatsApp sign-ups from people who want a weekly read without reading. Facts: F15, F16, F1.
+
+| Time | Lee says | On screen | B-roll |
+|---|---|---|---|
+| 0–4 s | "Your Monday market summary, before your coffee." | **Monday, 7:58** | Phone in hand, WhatsApp open (demo shot, see `../b-roll/README.md`) |
+| 4–10 s | "I message our AI analyst: what's new in Southeast Asia this week?" | The question typed in the chat | WhatsApp demo shot |
+| 10–17 s | "It answers from the registries we read every morning. New listings, status changes, each with the link to the record." | The answer arriving; one registry link highlighted in gold | WhatsApp demo shot, then `latest-moves` |
+| 17–21 s | "It's an AI, so it shows its sources." | `Every answer links to the registry` | |
+| 21–25 s | "Turn it on at carbon dot supply slash WhatsApp." | `carbon.supply/whatsapp` | End card |
+
+Caption: "Ask our AI analyst on WhatsApp what moved in your region this week. Every answer links to the
+registry record. Free with the weekly read: https://carbon.supply/whatsapp/"
+
+Until the WhatsApp demo shot is recorded, use a brand-coloured chat mock with the exact question from F16 and
+an answer built only from that day's `/latest/` page.
+
+---
+
+## 7. Check your pipeline before the call (~30 s)
+
+Goal: developers and investors who track a list of projects. Facts: F15, F16, F12.
+
+| Time | Lee says | On screen | B-roll |
+|---|---|---|---|
+| 0–5 s | "Before every call, I ask one question: is this project still where they say it is?" | **Still where they say it is?** | |
+| 5–12 s | "I keep my deal list in WhatsApp. I ask: is Verra 5584 registered yet?" | `Is Verra 5584 registered yet?` | WhatsApp demo shot, or `search-project` |
+| 12–20 s | "The answer: still in the pipeline, under validation, with a new name and a new proponent since September. And the link." | `Pipeline listing requested · under validation` + source stamp | `project-page` |
+| 20–25 s | "Ask about a developer, a country, or which projects on your list are late to verify." | The F16 questions scrolling | |
+| 25–30 s | "Your carbon analyst, on WhatsApp. Carbon dot supply." | `carbon.supply/whatsapp` | End card |
+
+Re-check Verra 5584's status on its project page on the day; if it has moved, say what it says then.
+
+Caption: "Before a call, check where the project really is. Ask our AI analyst on WhatsApp about any project,
+developer or country, and get the registry link with the answer. https://carbon.supply/whatsapp/"

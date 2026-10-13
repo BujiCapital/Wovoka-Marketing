@@ -10,7 +10,7 @@ Start here if you are making a video or a post for Carbon.Supply (https://carbon
 | [`messages.md`](messages.md) | Key messages and the facts table (every number, its source, its date) |
 | [`brand.md`](brand.md) | Colours, type, logo, charts, presenter, sound |
 | [`guardrails.md`](guardrails.md) | What we never say or show |
-| [`video/scripts.md`](video/scripts.md) | Five video scripts and a repeatable short |
+| [`video/scripts.md`](video/scripts.md) | Seven video scripts, WhatsApp analyst hooks, and a repeatable short |
 | [`key-customer.md`](key-customer.md) | The one customer to picture when writing |
 | [`content.md`](content.md) | Every public page worth a video, with its headline |
 | [`brand-kit/`](brand-kit/) | Logos, profile pictures and share cards |
