@@ -119,4 +119,8 @@ heygen ai-clipping create -d '{
 
 - Making videos through Postiz's HeyGen integration. If we use it, the video still goes to the content desk
   first.
-- HeyGen Studio templates for a repeatable weekly format.
+- Templates for a repeatable weekly format. A template can now be made from one of our own finished videos
+  over the API (`create_template`, then `set_template_variables` to mark the lines that change), with no
+  editor work. See [capabilities.md](capabilities.md#templates).
+- Fixing one spoken line without a new render: new audio in Lee's voice, then lip-sync it onto the approved
+  video (`create_lipsync`).

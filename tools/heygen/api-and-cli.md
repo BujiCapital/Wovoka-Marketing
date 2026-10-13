@@ -167,6 +167,8 @@ heygen video-agent send <session_id> -d edit_plan.json
 - Say "keep the narration" to change only the visuals; give new words to change both.
 - The reply carries the new draft's `video_id`. Poll that one.
 - `409 stale_edit_version` means it changed since you read it: read the scenes again and resend.
+- Send one edit at a time per video. `edit_version` isn't a lock, so two edits from the same version can both
+  be accepted.
 - Up to 50 scenes in one plan. A bad `scene_id` rejects the whole plan before anything runs.
 
 ## Direct renders without the agent

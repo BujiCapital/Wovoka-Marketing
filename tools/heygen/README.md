@@ -59,6 +59,7 @@ The rules in the [top-level README](../../README.md) apply to every video. In He
 | [prompting.md](prompting.md) | Writing a Video Agent brief that lands first time; our prompt template; the review checklist |
 | [api-and-cli.md](api-and-cli.md) | The API and CLI: setup, brand kit, glossary, uploads, rendering, scene edits, limits, errors |
 | [mcp.md](mcp.md) | Using HeyGen from Claude or another assistant over MCP |
+| [capabilities.md](capabilities.md) | Everything HeyGen can do (all 96 MCP tools), and which ones we use, avoid or ask Lee about |
 | [recipes.md](recipes.md) | Marketing workflows: a brand video, a batch of shorts, a page or newsletter into video, translation, clips |
 
 ## Worked example
@@ -81,7 +82,7 @@ All read 13 Oct 2026:
 - Avatars and consent: https://developers.heygen.com/docs/avatar-from-video.md and https://developers.heygen.com/docs/avatar-consent.md
 - Models (Avatar III, IV, V): https://developers.heygen.com/models.md
 - CLI: https://developers.heygen.com/cli.md and https://developers.heygen.com/commands.md
-- MCP: https://developers.heygen.com/mcp/overview.md
+- MCP, including the full tool list: https://developers.heygen.com/mcp/overview.md
 - Skills for AI assistants: https://developers.heygen.com/skills/overview.md
 - Usage limits: https://developers.heygen.com/docs/usage-limits.md
 - Version timeline (v1 and v2 retire 31 Oct 2026): https://developers.heygen.com/endpoint-version-comparison.md

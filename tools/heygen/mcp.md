@@ -16,19 +16,30 @@ https://mcp.heygen.com/mcp/v1/
 ```
 
 - **Claude (web and desktop):** **+** → **Connectors** → **Manage connectors** → **Add custom connector**.
-  Name it `HeyGen`, paste the address, press **Connect** and approve on HeyGen. Needs a paid Claude plan;
-  HeyGen recommends its Creator plan or above.
+  Name it `HeyGen`, paste the address, press **Connect** and approve on HeyGen. Needs a paid Claude plan.
+  HeyGen's MCP works on every HeyGen plan; for Claude, HeyGen recommends Creator or above.
 - **Claude Code:** `claude mcp add --transport http -s user heygen https://mcp.heygen.com/mcp/v1/`, then
   `/mcp`, pick `heygen` and approve in the browser. Leave out `-s user` to add it to one project only.
-- **Others** (Cursor, Gemini CLI, ChatGPT, Manus and more): setup pages are linked from
-  https://developers.heygen.com/mcp/overview.md.
+- **Others** (Codex CLI, Cursor, Gemini CLI, Lovable, Manus, Superhuman, OpenAI and more): setup pages are
+  linked from https://developers.heygen.com/mcp/overview.md.
+- **An agent we build ourselves** can use the same address. HeyGen only accepts connections from domains on
+  its allow list, so an agent running on a new domain needs HeyGen to grant access first.
 - To check it works, ask the assistant to call `get_current_user`.
 
 Videos made this way also appear under **Projects** in the HeyGen app.
 
+## What it costs
+
+- It spends the credits in our HeyGen plan, with no separate API bill. `get_current_user` shows what's left;
+  check it before a batch.
+- A few things bill differently over MCP. Speech from a HeyGen Voice clone (`generate_model_speech`) is
+  rounded up to a whole billing unit per request, so it can cost more than with an API key. New avatar looks
+  aren't available on HeyGen's free tier over MCP.
+
 ## What the assistant can do
 
-The MCP tools mirror the v3 API. The ones we use most:
+The MCP tools mirror the v3 API: 96 of them on 13 Oct 2026. **[capabilities.md](capabilities.md) lists every
+one, with what it does and whether we use it.** The ones we use most:
 
 | Tool | Does |
 |---|---|
@@ -50,4 +61,11 @@ The MCP tools mirror the v3 API. The ones we use most:
 - **Let it ask for the plan first** (`chat` mode), and approve before it renders.
 - **Turn on "Always allow"** for the HeyGen connector only if you're happy for every call to run without a
   prompt. Each render spends credits.
+- **Deletes are permanent.** The connector can delete videos, translations, templates, assets and Lee's
+  avatar. Never let an assistant run a `delete_*` tool without asking; if your assistant sets permissions per
+  tool, keep those on ask.
+- **Stop a run that's going wrong** with `stop_video_agent_session`. It halts at the next checkpoint and
+  keeps what's done.
+- **One scene edit at a time per video.** `edit_version` isn't a lock, so two edits sent from the same version
+  can both be accepted.
 - **No auto-posting.** Whatever the assistant makes is a draft for the content desk.
