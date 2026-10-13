@@ -59,6 +59,7 @@ The rules in the [top-level README](../../README.md) apply to every video. In He
 | [prompting.md](prompting.md) | Writing a Video Agent brief that lands first time; our prompt template; the review checklist |
 | [api-and-cli.md](api-and-cli.md) | The API and CLI: setup, brand kit, glossary, uploads, rendering, scene edits, limits, errors |
 | [mcp.md](mcp.md) | Using HeyGen from Claude or another assistant over MCP |
+| [avatar.md](avatar.md) | Lee's avatar: testing it, recording a better one, the voice, and the render settings that suit it |
 | [capabilities.md](capabilities.md) | Everything HeyGen can do (all 96 MCP tools), and which ones we use, avoid or ask Lee about |
 | [recipes.md](recipes.md) | Marketing workflows: a brand video, a batch of shorts, a page or newsletter into video, translation, clips |
 
