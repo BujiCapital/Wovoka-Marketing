@@ -33,7 +33,7 @@ These need a person with a phone or a signed-in account. Record them and add the
 
 | Shot | How to record | Rules |
 |---|---|---|
-| **Ask the analyst on WhatsApp** | On a phone, message the Carbon.Supply WhatsApp number "What's new in Southeast Asia this week?" and "Is Verra 5584 registered yet?". Screen-record the reply arriving with its registry link | Use a team phone. Crop out the status bar and any other chats. Show "AI analyst" in the chat or caption |
+| **Ask the analyst on WhatsApp** (needed for scripts 5, 6 and 7; record this first) | On a phone, message the Carbon.Supply WhatsApp number "What's new in Southeast Asia this week?" and "Is Verra 5584 registered yet?". Screen-record the reply arriving with its registry link | Use a team phone. Crop out the status bar and any other chats. Show "AI analyst" in the chat or caption |
 | **The weekly email** | Open the weekly read in Gmail on a phone; scroll from the header through the first chart | Use a team inbox; blur the recipient address |
 | **Sign up** | On carbon.supply, type a team email into "Get the free weekly read" and press the button, then show the confirmation | Use a team address; never a reader's |
 | **An alert** (when alerts are on) | Follow a project, then show the alert email for that project | Only once alerts are live |

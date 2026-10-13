@@ -11,7 +11,8 @@ When in doubt, round down and say "more than".
 2. **The change, not the table.** Registries show today. We keep every day and show what moved, from what to
    what, with a link to the record.
 3. **Pay for the slice you need.** Eleven editions, one region or one project type each. Start free.
-4. **Ask it like an analyst.** Message the AI analyst on WhatsApp; every answer links to the registry record.
+4. **Your carbon analyst on WhatsApp.** Ask for this week's market summary for your region, or the status of
+   every project on your deal list, and get the answer with the registry link.
 5. **The quiet rows are the interesting ones.** Delistings, relistings and late verifications are never
    announced. They are where the stories are.
 
@@ -33,6 +34,8 @@ When in doubt, round down and say "more than".
 | F12 | A project left Verra and came back | Verra 5584 dropped out of the registry export on 21 Sep 2026 and returned four days later as Krasop Blue Carbon, with a new proponent, a new validator and three methodologies (VM0033, VM0007, VM0047); estimate down from 1.26 Mt to 562,198 t a year | 25 Sep 2026 | https://carbon.supply/stories/krasop-blue-carbon-relisting/ |
 | F13 | Price of one edition | $390 a year; each extra edition $190; all eleven $990. Paid plans not open yet | 13 Oct 2026 | https://carbon.supply/pricing/ |
 | F14 | Free tier | The weekly read, free every week | 13 Oct 2026 | https://carbon.supply/pricing/ |
+| F15 | The WhatsApp analyst | An AI analyst on WhatsApp, free with a Carbon.Supply subscription (free or paid). Answers from the same registry database as the editions, and every answer links to the registry record. It can get things wrong, which is why it links. It never texts or calls first | 13 Oct 2026 | https://carbon.supply/whatsapp/ |
+| F16 | Questions people ask it | "What's new in Southeast Asia this week?" · "Is Verra 5584 registered yet?" · "Which developers listed the most new blue carbon projects this year?" · "Which registered cookstove projects in Cambodia are late to verify?" | 13 Oct 2026 | https://carbon.supply/whatsapp/ |
 
 F7 and F8 count slightly different statuses on different dates; never add or compare them. F9's tonnes are
 what projects **claim** in their registry documents, not credits issued. Always say "claim".
