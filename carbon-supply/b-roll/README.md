@@ -40,7 +40,9 @@ These need a person with a phone or a signed-in account. Record them and add the
 
 ## How to use b-roll in HeyGen
 
-1. Upload the clips to HeyGen's media library (or point it at this folder).
+1. Download the clips and drag them into HeyGen (its chat or media library), or upload them through the HeyGen
+   API. HeyGen cannot import MP4 or PNG files from GitHub links; it reads the Markdown files from raw links
+   only.
 2. Layout: Lee's avatar on the left third, the clip on the right two-thirds; or the clip full screen with
    Lee's voice over it.
 3. Put the on-screen text from the script over the clip, and the source stamp bottom left.
