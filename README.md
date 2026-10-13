@@ -16,6 +16,14 @@ public on our own websites.
 
 More brands will follow, one folder each, copied from [`_template/`](_template/).
 
+## Tool guides
+
+How to use the tools we make marketing with, and what we have learned using them.
+
+| Folder | Tool |
+|---|---|
+| [`tools/heygen/`](tools/heygen/) | HeyGen, for avatar videos: which route to use, how to brief it, the API and CLI, MCP, and recipes |
+
 ## Each brand folder
 
 | File | What it gives you |
@@ -51,7 +59,7 @@ More brands will follow, one folder each, copied from [`_template/`](_template/)
 1. Open the brand's folder and read its `README.md`, `messages.md` and `guardrails.md`.
 2. Pick a script in `video/scripts.md`, or write one from `messages.md` and a page on the brand's site.
 3. Re-check every number against its source.
-4. Render in HeyGen with Lee's avatar. Keep the on-screen text and the source stamps.
+4. Render in HeyGen with Lee's avatar ([how](tools/heygen/)). Keep the on-screen text and the source stamps.
 5. Put the draft on the content desk with the video, the caption and the list of facts used.
 
 ## Changing this repository
