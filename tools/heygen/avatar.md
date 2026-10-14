@@ -144,9 +144,11 @@ don't matter. Every fact in it is in [carbon-supply/messages.md](../../carbon-su
 
 - **Engine:** Avatar V when the look lists `avatar_v` in `supported_api_engines`. It's HeyGen's most
   natural motion and lip-sync. Avatar IV otherwise.
-- **Gestures:** `motion_prompt` works on both engines, for example "calm, small hand gestures at chest
-  height, hands return to rest". `expressiveness` is Avatar IV only; sending it with Avatar V is an error.
+- **Gestures:** on a video-trained avatar, `motion_prompt` works only with Avatar V (Avatar IV rejects it),
+  for example "calm, small hand gestures at chest height, hands return to rest". `expressiveness` is Avatar IV
+  only; sending it with Avatar V is an error.
 - **Background:** `remove_background: true` and near-black `#0b0e0c`, so the brand's colours sit behind Lee.
+  This only works on an avatar HeyGen trained with background removal (matting) turned on.
 - **Resolution:** 1080p.
 - **Always pass** the look as `avatar_id` and the voice as `voice_id`, on direct renders and on the Video
   Agent alike.
