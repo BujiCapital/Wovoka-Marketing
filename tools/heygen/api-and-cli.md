@@ -48,6 +48,8 @@ otherwise.
 
 ### Lee's avatar and voice
 
+How to test the avatar and record a better one: [avatar.md](avatar.md).
+
 ```bash
 heygen avatar list --ownership private                 # Lee's avatar group (the character)
 heygen avatar looks list --group-id <group_id>         # its looks; a look id is the avatar_id
