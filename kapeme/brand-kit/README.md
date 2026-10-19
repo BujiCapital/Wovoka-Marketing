@@ -17,7 +17,7 @@ colour, type and video are in [`../brand.md`](../brand.md).
 
 ## Logos (`logos/`)
 
-The logo: the **k** holds a coffee sock on its wire handle, and the coffee it drips is the dot in
+The logo: the **k** holds a coffee sock on a turned wooden handle, and the coffee it drips is the dot in
 **kape.me**. Letters in Fraunces (soft, 640), the sock in terracotta.
 
 | File | Use |
@@ -25,7 +25,7 @@ The logo: the **k** holds a coffee sock on its wire handle, and the coffee it dr
 | `kapeme-logo-on-dark.png`, `kapeme-logo-on-light.png` | **Main logo**, for coffee and paper grounds |
 | `kapeme-icon-on-dark.png`, `kapeme-icon-on-light.png` | **Icon**: the k holding the sock. Profile pictures, favicon, corner bug |
 | `*.svg` | The same, as vectors. The letters are live Fraunces text loaded from Google Fonts: use the PNGs, and have a designer outline the letters before print or packaging |
-| `concepts/` | Earlier rounds: the coffee sock, siphon and kettle marks, and the drip, pot and badge lockups |
+| `concepts/` | Earlier rounds: the sock, siphon and kettle marks; the drip, pot and badge lockups; and other handles (plain wire, fused, arc) |
 
 There is no `share-cards/` folder: the site's pages carry no share image in the repository.
 
