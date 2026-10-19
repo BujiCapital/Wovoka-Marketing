@@ -1,0 +1,57 @@
+{
+  "name": "Wovoka Advisory",
+  "wordmark": "WOVOKA",
+  "wordmark_sub": "Advisory",
+  "tagline": "Ground truth for nature‑based investment.",
+  "url": "wovokagroup.com",
+  "mark": "logos/wovoka-advisory-w-white.png",
+  "mark_light": "logos/apple-touch-icon-180.png",
+  "mark_text": "W",
+  "logo_dark": "logos/wovoka-advisory-logo-white.png",
+  "logo_light": "logos/wovoka-advisory-logo.png",
+  "colors": {
+    "bg": "#14402c",
+    "fg": "#ffffff",
+    "accent": "#8fb8a1",
+    "light_bg": "#ffffff",
+    "light_fg": "#12211a"
+  },
+  "fonts": {
+    "head": "Spectral",
+    "head_weight": 500,
+    "body": "Inter",
+    "mono": "IBM Plex Mono"
+  },
+  "palette": [
+    {
+      "name": "Forest",
+      "hex": "#14402c",
+      "use": "Dark sections, footer, buttons"
+    },
+    {
+      "name": "Forest mid",
+      "hex": "#1d5c3e",
+      "use": "Links and rules on paper"
+    },
+    {
+      "name": "Ink",
+      "hex": "#12211a",
+      "use": "Text on paper"
+    },
+    {
+      "name": "Paper",
+      "hex": "#fbfaf7",
+      "use": "Page ground"
+    },
+    {
+      "name": "Sage",
+      "hex": "#8fb8a1",
+      "use": "Labels on dark"
+    },
+    {
+      "name": "Clay",
+      "hex": "#b4552d",
+      "use": "The one warm accent, small labels"
+    }
+  ]
+}

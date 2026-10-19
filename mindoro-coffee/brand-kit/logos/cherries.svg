@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 150" role="img" aria-label="Four coffee cherries: Robusta, Arabica, Excelsa, Liberica">
+  <defs>
+    <g id="leaf"><ellipse cx="18" cy="-60" rx="18" ry="10" transform="rotate(-30 18 -60)" fill="#7FA36B"/></g>
+  </defs>
+  <g transform="translate(90 92)"><circle r="48" fill="#7D1C17"/><use href="#leaf"/></g>
+  <g transform="translate(270 92)"><circle r="48" fill="#A8241C"/><use href="#leaf"/></g>
+  <g transform="translate(450 92)"><circle r="48" fill="#B9832F"/><use href="#leaf"/></g>
+  <g transform="translate(630 92)"><circle r="48" fill="#C45A24"/><use href="#leaf"/></g>
+</svg>

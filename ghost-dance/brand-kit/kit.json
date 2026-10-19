@@ -1,0 +1,20 @@
+{
+  "name": "Ghost Dance",
+  "wordmark": "Ghost Dance",
+  "wordmark_sub": "by Wovoka",
+  "wordmark_tracking": "0",
+  "tagline": "Satellites see the land. The people on it know it.",
+  "url": "ghost.dance",
+  "mark": "logos/icon.svg",
+  "mark_light": "logos/icon.svg",
+  "mark_text": "GD",
+  "colors": {"bg": "#08100B", "fg": "#F4EBDD", "accent": "#E8B04B", "light_bg": "#F4EBDD", "light_fg": "#16211B"},
+  "fonts": {"head": "Noto Serif", "head_weight": 600, "body": "Noto Sans", "mono": "IBM Plex Mono"},
+  "palette": [
+    {"name": "Orbit", "hex": "#08100B", "use": "Dark ground"},
+    {"name": "Forest", "hex": "#1A3C2A", "use": "Icon tile, buttons"},
+    {"name": "Gold", "hex": "#E8B04B", "use": "Signal: the one highlight"},
+    {"name": "Cream", "hex": "#F4EBDD", "use": "Text on dark, paper"},
+    {"name": "Ink", "hex": "#16211B", "use": "Text on paper"}
+  ]
+}

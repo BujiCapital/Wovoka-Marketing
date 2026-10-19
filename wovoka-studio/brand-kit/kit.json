@@ -1,0 +1,21 @@
+{
+  "name": "Wovoka Studio",
+  "wordmark": "WOVOKA",
+  "wordmark_sub": "Studio",
+  "tagline": "The studio that runs what it builds.",
+  "url": "wovoka.dev",
+  "mark": "logos/icon-1024.png",
+  "mark_light": "logos/icon-1024.png",
+  "logo_dark": "logos/wordmark-on-dark.png",
+  "logo_light": "logos/wordmark-on-light.png",
+  "colors": {"bg": "#120d24", "fg": "#fff6e4", "accent": "#fcd116", "light_bg": "#fbf6ec", "light_fg": "#16121f"},
+  "fonts": {"head": "Bricolage Grotesque", "head_weight": 700, "body": "Instrument Sans", "mono": "IBM Plex Mono"},
+  "palette": [
+    {"name": "Sun", "hex": "#fcd116", "use": "Wordmark, highlights, buttons on dark"},
+    {"name": "Night", "hex": "#120d24", "use": "Dark bands, header, icon tile"},
+    {"name": "Cream", "hex": "#fff6e4", "use": "Text and art on dark"},
+    {"name": "Paper", "hex": "#fbf6ec", "use": "Light page background"},
+    {"name": "Flag blue", "hex": "#1f4fd8", "use": "Links, plate borders, the stripe"},
+    {"name": "Flag red", "hex": "#d62828", "use": "Plate lettering, the stripe"}
+  ]
+}

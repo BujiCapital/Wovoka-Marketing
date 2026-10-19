@@ -1,0 +1,54 @@
+{
+  "name": "Wovoka",
+  "wordmark": "WOVOKA",
+  "tagline": "Building yield from restored tropical land.",
+  "url": "wovoka.io",
+  "mark": "logos/wovoka-mark-white-1024.png",
+  "mark_text": "W",
+  "logo_dark": "logos/wovoka-logo-white-1664.png",
+  "logo_light": "logos/wovoka-logo-832.png",
+  "colors": {
+    "bg": "#141c10",
+    "fg": "#ffffff",
+    "accent": "#d8b46a",
+    "light_bg": "#f6f5ef",
+    "light_fg": "#17200f"
+  },
+  "fonts": {
+    "head": "Barlow",
+    "head_weight": 500,
+    "body": "Inter Tight"
+  },
+  "palette": [
+    {
+      "name": "Green night",
+      "hex": "#141c10",
+      "use": "Hero and footer ground"
+    },
+    {
+      "name": "Deep green",
+      "hex": "#22301b",
+      "use": "Dark sections and cards"
+    },
+    {
+      "name": "Paper",
+      "hex": "#f6f5ef",
+      "use": "Page ground"
+    },
+    {
+      "name": "Ink",
+      "hex": "#17200f",
+      "use": "Text on paper"
+    },
+    {
+      "name": "Gold on paper",
+      "hex": "#b48a3c",
+      "use": "Accent on light grounds"
+    },
+    {
+      "name": "Gold",
+      "hex": "#d8b46a",
+      "use": "Accent on dark grounds"
+    }
+  ]
+}

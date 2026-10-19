@@ -1,0 +1,21 @@
+{
+  "name": "Buji Vanilla",
+  "wordmark": "Buji",
+  "wordmark_sub": "Real Ugandan vanilla",
+  "tagline": "Real vanilla from Uganda",
+  "url": "bujivanilla.com",
+  "mark": "logos/buji-logo-cream.png",
+  "mark_light": "logos/buji-logo-dark.png",
+  "logo_dark": "logos/buji-logo-cream.png",
+  "logo_light": "logos/buji-logo-dark.png",
+  "colors": {"bg": "#23331f", "fg": "#f5f4ec", "accent": "#DFDFD8", "light_bg": "#f5f4ec", "light_fg": "#11151C"},
+  "fonts": {"head": "Platypi", "head_weight": 600, "body": "Mulish"},
+  "palette": [
+    {"name": "Green", "hex": "#405E38", "use": "Brand colour: headings, links, nav on light"},
+    {"name": "Deep green", "hex": "#23331f", "use": "Dark ground, footer"},
+    {"name": "Brown", "hex": "#855832", "use": "Shop on Amazon button"},
+    {"name": "Cream", "hex": "#DFDFD8", "use": "Page ground, logo on dark"},
+    {"name": "Paper", "hex": "#f5f4ec", "use": "Light cards, text on dark"},
+    {"name": "Ink", "hex": "#11151C", "use": "Body text, logo on light"}
+  ]
+}

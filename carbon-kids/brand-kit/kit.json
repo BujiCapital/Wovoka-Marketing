@@ -1,0 +1,20 @@
+{
+  "name": "Carbon Kids",
+  "wordmark": "CARBON KIDS",
+  "tagline": "Big adventures in a real forest",
+  "url": "carbon.kids",
+  "mark": "logos/carbon-kids-icon-1024.png",
+  "mark_light": "logos/carbon-kids-icon-1024.png",
+  "logo_dark": "logos/carbon-kids-lockup.png",
+  "logo_light": "logos/carbon-kids-lockup.png",
+  "colors": {"bg": "#bfe6f5", "fg": "#26302a", "accent": "#2f7d52", "light_bg": "#fffaf0", "light_fg": "#26302a"},
+  "fonts": {"head": "Baloo 2", "head_weight": 800, "body": "Nunito"},
+  "palette": [
+    {"name": "Leaf", "hex": "#2f7d52", "use": "Wordmark, buttons, headlines"},
+    {"name": "Sun", "hex": "#f5b93c", "use": "Icon face, second buttons, highlights"},
+    {"name": "Sky", "hex": "#5aa9d6", "use": "Icon tile, sky in the art"},
+    {"name": "Cream", "hex": "#fffaf0", "use": "Page background"},
+    {"name": "Ink", "hex": "#26302a", "use": "Text and every outline"},
+    {"name": "Clay", "hex": "#d97757", "use": "Occasional accent button"}
+  ]
+}

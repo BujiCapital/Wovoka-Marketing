@@ -13,8 +13,18 @@ public on our own websites.
 | Folder | Brand | Website |
 |---|---|---|
 | [`carbon-supply/`](carbon-supply/) | Carbon.Supply: carbon registry data, weekly editions and an AI analyst | https://carbon.supply |
+| [`wovoka/`](wovoka/) | Wovoka: the company (starter brand kit) | https://www.wovoka.io |
+| [`wovoka-advisory/`](wovoka-advisory/) | Wovoka Advisory, our sister firm (starter brand kit) | https://www.wovokagroup.com |
+| [`wovoka-studio/`](wovoka-studio/) | Wovoka Studio (starter brand kit) | https://wovoka.dev |
+| [`ghost-dance/`](ghost-dance/) | Ghost Dance (starter brand kit) | https://www.ghost.dance |
+| [`inclusive-forests/`](inclusive-forests/) | Inclusive Forests (starter brand kit) | https://inclusiveforests.org |
+| [`buji-vanilla/`](buji-vanilla/) | Buji Vanilla (starter brand kit) | https://bujivanilla.com |
+| [`mindoro-coffee/`](mindoro-coffee/) | Mindoro Coffee (starter brand kit) | https://mindorocoffee.com |
+| [`kapeme/`](kapeme/) | Kapeme (starter brand kit) | https://kape.me |
+| [`carbon-kids/`](carbon-kids/) | carbon.kids (starter brand kit) | https://carbon.kids |
 
-More brands will follow, one folder each, copied from [`_template/`](_template/).
+A starter brand kit is a brand folder with only `README.md`, `brand.md` and `brand-kit/` filled in. The other
+files are copied from [`_template/`](_template/) and written before that brand advertises.
 
 ## Tool guides
 
@@ -22,6 +32,7 @@ How to use the tools we make marketing with, and what we have learned using them
 
 | Folder | Tool |
 |---|---|
+| [`tools/brand-kit/`](tools/brand-kit/) | Renders profile pictures, logos, covers and a palette card from a brand's `kit.json` |
 | [`tools/heygen/`](tools/heygen/) | HeyGen, for avatar videos: which route to use, how to brief it, the API and CLI, MCP, and recipes |
 
 ## Each brand folder
