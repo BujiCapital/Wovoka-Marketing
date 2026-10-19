@@ -1,6 +1,6 @@
 # wovoka.org brand kit
 
-There is no logo: the wordmark is "Wovoka" in Fraunces 600 (see [`../brand.md`](../brand.md)).
+The logo is a drawing of Wovoka's hat, in `logos/`; how to use it is in [`../brand.md`](../brand.md). The wordmark is "Wovoka" in Fraunces 600.
 
 ## Share cards (`share-cards/`)
 

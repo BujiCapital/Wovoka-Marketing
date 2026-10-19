@@ -19,9 +19,25 @@ From the site's stylesheet. The site is quiet: paper, ink, one earth accent.
 - Body, captions, credits: **Inter Tight** (400 to 600).
 - Both from Google Fonts.
 
-## Wordmark
+## Logo: the hat
 
-"Wovoka" set in Fraunces 600. There is no logo file. Write the site as **wovoka.org** in posts.
+Lee chose the mark on 19 Oct 2026: a drawing of Wovoka's tall, creased, wide-brimmed hat. The site shows no
+photographs of him, and the hat is how people knew him: in nearly every photograph he wears a Stetson, and Howard
+Rogers remembered "a hat nobody else wore" (Michael Hittman, Wovoka and the Ghost Dance, 1990, pp. 110 to 111). When Mooney met him in 1892 the hat was "a broad white hat".
+
+| File (`brand-kit/logos/`) | Use |
+|---|---|
+| `mark.svg` | The hat in ink on light grounds |
+| `mark-light.svg` | The hat in paper on dark grounds |
+| `mark-square.svg`, `favicon.svg` | Square tile and favicon |
+| `profile-1024.png`, `profile-dark-1024.png` | Channel profile pictures (circle-crop safe) |
+| `lockup.png`, `lockup-dark.png` | The hat with the wordmark "Wovoka" in Fraunces 600 |
+| `eclipse.svg`, `eclipse-dark.svg`, `eclipse-1024.png`, `eclipse-dark-1024.png` | The hat before the ring of the 1 January 1889 eclipse, the day of his vision. For share cards, title cards and the last frame of films, not as the everyday logo |
+
+One colour only: ink or paper. The band is a gap, not a second colour. The eclipse ring is the only place the
+accent appears. Do not add a feather, beadwork or anything else to the hat, and never put a face under it.
+
+Write the site as **wovoka.org** in posts.
 
 ## Pictures
 
