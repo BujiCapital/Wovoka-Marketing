@@ -6,13 +6,15 @@ Everything here is a draft and changes by pull request.
 | File | |
 |---|---|
 | [`brand.md`](brand.md) | Colours, type, wordmark, on-screen text, presenter, voice, sound, end card |
-| [`brand-kit/`](brand-kit/) | Starter wordmark, profile pictures and covers |
+| [`brand-kit/`](brand-kit/) | Starter mark, profile pictures and covers |
 
 Still to write (copy each from [`../_template/`](../_template/)): `product.md`, `audiences.md`,
 `messages.md`, `guardrails.md`, `key-customer.md`, `content.md`, `video/scripts.md`.
 
-Kape.Me has no designed logo. The kit uses a **starter wordmark, not a designed logo**: the name set in
-the site's own headline font, with a "k." monogram for profile pictures.
+Kape.Me has no designed logo yet. The kit has a **starter mark**: the Filipino coffee sock (a cloth filter on a
+wire ring, dripping into a pot), drawn in the site's terracotta and caramel, beside the name set in the
+site's own headline font. Two other concepts, a siphon and an enamel kettle, are in
+`brand-kit/logos/concepts/` (starter: confirm which one).
 
 ## Rules for this brand
 

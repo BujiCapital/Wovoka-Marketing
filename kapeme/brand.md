@@ -26,7 +26,8 @@ Both are free on Google Fonts.
 
 ## Logo
 
-Kape.Me has no logo file. The site sets the name as live text: **kape.me** in Fraunces 600, with the dot
+The mark is a starter drawing of the Filipino coffee sock, the cloth filter the site's brewing guide covers
+(starter: confirm; a siphon and an enamel kettle are in `brand-kit/logos/concepts/`). The site sets the name as live text: **kape.me** in Fraunces 600, with the dot
 in terracotta, in the nav and the footer. The kit's `brand-kit/social/` files are a **starter wordmark,
 not a designed logo**, rendered from `brand-kit/kit.json` in the same font and colours. The renderer sets
 the dot in the text colour; on a hand-made end card, colour the dot terracotta as the site does.
@@ -35,7 +36,8 @@ the dot in the text colour; on a hand-made end card, colour the dot terracotta a
 |---|---|
 | `brand-kit/social/logo-on-dark.png` | Starter wordmark on coffee |
 | `brand-kit/social/logo-on-light.png` | Starter wordmark on paper |
-| `brand-kit/social/profile-1024.png` | "k." monogram for channel avatars |
+| `brand-kit/social/profile-1024.png` | The coffee-sock mark for channel avatars |
+| `brand-kit/logos/mark-coffee-sock.svg` | The mark on its own; corner bug in video |
 
 Written **Kape.Me** in titles and the page title, **kape.me** in the logo. Spoken "kah-peh dot me"
 (starter: confirm).

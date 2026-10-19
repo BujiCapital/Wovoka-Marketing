@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-4 0 100 100">
+  <!-- wire handle -->
+  <path d="M30 22 H8" stroke="#D4A574" stroke-width="4" stroke-linecap="round" fill="none"/>
+  <ellipse cx="50" cy="22" rx="20" ry="5" fill="none" stroke="#D4A574" stroke-width="4"/>
+  <!-- cloth sock -->
+  <path d="M31 23 C33 40 40 52 47 57 C49 58.5 51 58.5 53 57 C60 52 67 40 69 23 Z" fill="#C8553D"/>
+  <path d="M38 30 C41 40 45 47 50 51" stroke="#FAFAF7" stroke-opacity=".35" stroke-width="2" fill="none" stroke-linecap="round"/>
+  <!-- drip -->
+  <path d="M50 61 C48 64.5 47.5 66 47.5 67.2 a2.5 2.5 0 0 0 5 0 C52.5 66 52 64.5 50 61 Z" fill="#C8553D"/>
+  <!-- pot -->
+  <path d="M30 74 H70 L67 92 C66.6 94 65 95 63 95 H37 C35 95 33.4 94 33 92 Z" fill="#D4A574"/>
+  <rect x="27" y="71" width="46" height="5" rx="2.5" fill="#D4A574"/>
+</svg>

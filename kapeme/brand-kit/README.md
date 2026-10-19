@@ -1,21 +1,30 @@
 # Kape.Me brand kit
 
-Kape.Me has no logo, icon or share-card file. This kit is a **starter wordmark, not a designed logo**:
-the name set in the site's own font and colours, rendered from `kit.json` on 19 Oct 2026. Rules for
+Kape.Me has no logo, icon or share-card file on its site. This kit is a **starter mark, not a finished
+logo**: a drawing of the Filipino coffee sock beside the name set in the site's own font and colours,
+rendered from `kit.json` on 19 Oct 2026. Rules for
 colour, type and video are in [`../brand.md`](../brand.md).
 
 ## Social set (`social/`)
 
 | File | Use |
 |---|---|
-| `profile-1024.png`, `profile-400.png` | Profile picture: "k." monogram in terracotta on coffee (circle-crop safe) |
-| `logo-on-dark.png`, `logo-on-light.png` | Starter wordmark "kape.me" with the monogram, 1600×480 |
+| `profile-1024.png`, `profile-400.png` | Profile picture: the coffee-sock mark on coffee (circle-crop safe) |
+| `logo-on-dark.png`, `logo-on-light.png` | The mark with "kape.me", 1600×480 |
 | `cover-linkedin-1584x396.png` | LinkedIn page cover |
 | `cover-facebook-1640x624.png` | Facebook page cover |
 | `palette.png` | Colour and type at a glance |
 
-There is no `logos/` or `share-cards/` folder. The site serves no logo file, and its pages carry no share
-image in the repository (the LA guide points to an image hosted elsewhere).
+## Logos (`logos/`)
+
+| File | Use |
+|---|---|
+| `mark-coffee-sock.svg` | The chosen starter mark: a cloth coffee sock on a wire ring, dripping into a pot |
+| `concepts/mark-siphon.svg` | Alternative: a siphon (vacuum) brewer |
+| `concepts/mark-kettle.svg` | Alternative: an old enamel kettle |
+| `concepts/compare.png` | The three side by side, on coffee and on paper |
+
+There is no `share-cards/` folder: the site's pages carry no share image in the repository.
 
 Do not recolour or stretch the wordmark. Replace this set when a designed logo exists.
 
