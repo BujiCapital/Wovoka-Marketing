@@ -19,7 +19,7 @@ general reader and built from the published record, with every source listed.
 | [`content.md`](content.md) | Every public page worth a post, with its headline |
 | [`schedule.md`](schedule.md) | What is already queued in Postiz, so nothing is posted twice |
 | [`video/scripts.md`](video/scripts.md) | The two map films and how to make more |
-| [`brand-kit/`](brand-kit/) | The hat logo, profile pictures, lockups and share cards |
+| [`brand-kit/`](brand-kit/) | The hat logo, profile pictures, lockups, the hat film and share cards |
 | [`b-roll/`](b-roll/) | The two map films, post-ready |
 
 ## Rules for this brand

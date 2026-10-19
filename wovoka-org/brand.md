@@ -37,6 +37,21 @@ Rogers remembered that he wore a hat nobody else wore (as told in Michael Hittma
 One colour only: ink or paper. The band is a gap, not a second colour. The eclipse ring is the only place the
 accent appears. Do not add a feather, beadwork or anything else to the hat, and never put a face under it.
 
+### The hat film (`brand-kit/motion/`)
+
+A 10-second animation of the mark, silent. The black hat tumbles and stars fall out of it, a comet crosses,
+the galaxy turns, then the hat turns face-on in front of the sun and becomes the 1889 eclipse, and spins down
+to land in front of the ring with the wordmark. It is a coded 3D drawing, not AI-generated.
+
+| File | Use |
+|---|---|
+| `hat-film-1x1.mp4` | 1080×1080, square posts and channel intros |
+| `hat-film-4x5.mp4` | 1080×1350, feed posts |
+| `hat-film-end-1x1.jpg`, `hat-film-end-4x5.jpg` | The last frame, for a title card or a film's cover |
+
+Use it to open or close the channel's own films, or on its own to introduce the channel. It is a logo, not
+history: never caption it as a picture of his real hat or of the eclipse.
+
 Write the site as **wovoka.org** in posts.
 
 ## Pictures
@@ -45,7 +60,7 @@ Write the site as **wovoka.org** in posts.
   drawings, astronomical photographs. The share cards in [`brand-kit/`](brand-kit/) are ready to use.
 - The hero is Mooney's January 1892 photograph of Mason Valley, public domain.
 - Films are recorded from the live pages (see [`video/scripts.md`](video/scripts.md)): the page's own
-  maps, its own captions, no added effects.
+  maps, its own captions, no added effects. The hat film is the one exception, because it is the logo.
 
 ## Captions in posts
 
