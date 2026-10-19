@@ -23,7 +23,7 @@ From the site's stylesheet. The site is quiet: paper, ink, one earth accent.
 
 Lee chose the mark on 19 Oct 2026: a drawing of Wovoka's tall, creased, wide-brimmed hat. The site shows no
 photographs of him, and the hat is how people knew him: in nearly every photograph he wears a Stetson, and Howard
-Rogers remembered "a hat nobody else wore" (Michael Hittman, Wovoka and the Ghost Dance, 1990, pp. 110 to 111). When Mooney met him in 1892 the hat was "a broad white hat".
+Rogers remembered that he wore a hat nobody else wore (as told in Michael Hittman, Wovoka and the Ghost Dance, 1990, pp. 110 to 111). When Mooney met him in 1892 the hat was "a broad white hat".
 
 | File (`brand-kit/logos/`) | Use |
 |---|---|
