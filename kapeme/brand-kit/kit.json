@@ -49,7 +49,8 @@
       "use": "Body text on light"
     }
   ],
-  "mark": "logos/mark-coffee-sock.svg",
-  "logo_dark": "logos/lockups/lockup-drip-on-dark.png",
-  "logo_light": "logos/lockups/lockup-drip-on-light.png"
+  "mark": "logos/kapeme-icon-on-dark.png",
+  "logo_dark": "logos/kapeme-logo-on-dark.png",
+  "logo_light": "logos/kapeme-logo-on-light.png",
+  "mark_light": "logos/kapeme-icon-on-light.png"
 }

@@ -11,10 +11,8 @@ Everything here is a draft and changes by pull request.
 Still to write (copy each from [`../_template/`](../_template/)): `product.md`, `audiences.md`,
 `messages.md`, `guardrails.md`, `key-customer.md`, `content.md`, `video/scripts.md`.
 
-Kape.Me has no designed logo yet. The kit has a **starter mark**: the Filipino coffee sock (a cloth filter on a
-wire ring, dripping into a pot), drawn in the site's terracotta and caramel, beside the name set in the
-site's own headline font. Two other concepts, a siphon and an enamel kettle, are in
-`brand-kit/logos/concepts/` (starter: confirm which one).
+Kape.Me's starter logo: the k holds a Filipino coffee sock, and the coffee it drips is the dot in
+kape.me (Lee chose the coffee sock, 19 Oct 2026). A designer should outline the letters before print.
 
 ## Rules for this brand
 

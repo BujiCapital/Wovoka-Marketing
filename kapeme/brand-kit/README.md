@@ -17,19 +17,15 @@ colour, type and video are in [`../brand.md`](../brand.md).
 
 ## Logos (`logos/`)
 
+The logo: the **k** holds a coffee sock on its wire handle, and the coffee it drips is the dot in
+**kape.me**. Letters in Fraunces (soft, 640), the sock in terracotta.
+
 | File | Use |
 |---|---|
-| `mark-coffee-sock.svg` | The chosen starter mark: a cloth coffee sock on a wire ring, dripping into a pot |
-| `concepts/mark-siphon.svg` | Alternative: a siphon (vacuum) brewer |
-| `concepts/mark-kettle.svg` | Alternative: an old enamel kettle |
-| `concepts/compare.png` | The three side by side, on coffee and on paper |
-| `lockups/lockup-drip-on-dark.png`, `-on-light.png` | **Main logo**: "kape.me" with the sock dripping the dot. Used for `social/logo-on-*.png` |
-| `lockups/lockup-pot-on-*.png` | The name on the pot, under the sock: stickers, packaging, square posts |
-| `lockups/badge-on-*.png` | Round badge, "KAPE.ME · PHILIPPINE COFFEE": stamps, merch, video end cards |
-| `lockups/compare.png` | The three lockups side by side |
-
-The lockup `.svg` files set the words in Fraunces loaded from Google Fonts, so they need a connection to
-render correctly; use the PNGs anywhere else. A designer should outline the text for a final logo.
+| `kapeme-logo-on-dark.png`, `kapeme-logo-on-light.png` | **Main logo**, for coffee and paper grounds |
+| `kapeme-icon-on-dark.png`, `kapeme-icon-on-light.png` | **Icon**: the k holding the sock. Profile pictures, favicon, corner bug |
+| `*.svg` | The same, as vectors. The letters are live Fraunces text loaded from Google Fonts: use the PNGs, and have a designer outline the letters before print or packaging |
+| `concepts/` | Earlier rounds: the coffee sock, siphon and kettle marks, and the drip, pot and badge lockups |
 
 There is no `share-cards/` folder: the site's pages carry no share image in the repository.
 
