@@ -34,8 +34,9 @@ the dot in the text colour; on a hand-made end card, colour the dot terracotta a
 
 | File | Use in video |
 |---|---|
-| `brand-kit/social/logo-on-dark.png` | Starter wordmark on coffee |
-| `brand-kit/social/logo-on-light.png` | Starter wordmark on paper |
+| `brand-kit/social/logo-on-dark.png` | Main logo on coffee: "kape.me" with the sock dripping the dot |
+| `brand-kit/social/logo-on-light.png` | Main logo on paper |
+| `brand-kit/logos/lockups/badge-on-dark.png` | Round badge for end cards and stamps |
 | `brand-kit/social/profile-1024.png` | The coffee-sock mark for channel avatars |
 | `brand-kit/logos/mark-coffee-sock.svg` | The mark on its own; corner bug in video |
 

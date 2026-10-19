@@ -23,6 +23,13 @@ colour, type and video are in [`../brand.md`](../brand.md).
 | `concepts/mark-siphon.svg` | Alternative: a siphon (vacuum) brewer |
 | `concepts/mark-kettle.svg` | Alternative: an old enamel kettle |
 | `concepts/compare.png` | The three side by side, on coffee and on paper |
+| `lockups/lockup-drip-on-dark.png`, `-on-light.png` | **Main logo**: "kape.me" with the sock dripping the dot. Used for `social/logo-on-*.png` |
+| `lockups/lockup-pot-on-*.png` | The name on the pot, under the sock: stickers, packaging, square posts |
+| `lockups/badge-on-*.png` | Round badge, "KAPE.ME · PHILIPPINE COFFEE": stamps, merch, video end cards |
+| `lockups/compare.png` | The three lockups side by side |
+
+The lockup `.svg` files set the words in Fraunces loaded from Google Fonts, so they need a connection to
+render correctly; use the PNGs anywhere else. A designer should outline the text for a final logo.
 
 There is no `share-cards/` folder: the site's pages carry no share image in the repository.
 

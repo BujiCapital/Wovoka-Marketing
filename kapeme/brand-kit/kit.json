@@ -49,5 +49,7 @@
       "use": "Body text on light"
     }
   ],
-  "mark": "logos/mark-coffee-sock.svg"
+  "mark": "logos/mark-coffee-sock.svg",
+  "logo_dark": "logos/lockups/lockup-drip-on-dark.png",
+  "logo_light": "logos/lockups/lockup-drip-on-light.png"
 }
