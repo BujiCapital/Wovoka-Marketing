@@ -49,8 +49,7 @@
       "use": "Body text on light"
     }
   ],
-  "mark": "logos/kapeme-icon-on-dark.png",
+  "mark": "logos/kapeme-icon.svg",
   "logo_dark": "logos/kapeme-logo-on-dark.png",
-  "logo_light": "logos/kapeme-logo-on-light.png",
-  "mark_light": "logos/kapeme-icon-on-light.png"
+  "logo_light": "logos/kapeme-logo-on-light.png"
 }

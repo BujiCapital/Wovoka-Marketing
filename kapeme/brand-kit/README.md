@@ -17,13 +17,14 @@ colour, type and video are in [`../brand.md`](../brand.md).
 
 ## Logos (`logos/`)
 
-The logo: **KAPE** is burned into the wooden handle of a coffee sock. The sock drips coffee, and the drop
-is the dot before **me**. Letters in Fraunces, the sock in terracotta (Lee, 20 Oct 2026).
+The logo: **kape.me** set in Fraunces (soft, 640), with a terracotta coffee drop as the dot. The wooden
+handle of a Filipino coffee sock runs underneath as the underline, and the sock hangs from its end under
+".me" (Lee, 20 Oct 2026). The underline breaks around the p.
 
 | File | Use |
 |---|---|
 | `kapeme-logo-on-dark.png`, `kapeme-logo-on-light.png` | **Main logo**, for coffee and paper grounds |
-| `kapeme-icon-on-dark.png`, `kapeme-icon-on-light.png` | **Icon**: the sock on the end of its handle, dripping. Profile pictures, corner bug |
+| `kapeme-icon.svg` | **Icon**: the coffee sock dripping into a pot. Profile pictures, corner bug |
 | `*.svg` | The same, as vectors. The letters are live Fraunces text loaded from Google Fonts: use the PNGs, and have a designer outline the letters before print or packaging |
 | `concepts/` | Earlier rounds: the sock, siphon and kettle marks; the drip, pot and badge lockups; and other handles (plain wire, fused, arc) |
 
