@@ -17,16 +17,16 @@ colour, type and video are in [`../brand.md`](../brand.md).
 
 ## Logos (`logos/`)
 
-The logo, on two lines: **kape** in Fraunces (soft, 640), underlined by the wooden handle of a Filipino
-coffee sock. The sock hangs from the end, and its drip falls to the lower line, where the drop is the dot
-of **.me** (Lee, 20 Oct 2026). The underline breaks around the p.
+The logo: **kape.me** in Fraunces (soft, 720) on one line, with a Filipino coffee sock standing in for the
+dot. Its drop lands on the baseline where the dot would be. The sock's wooden handle lies over "pe" and rises
+to the right like an acute accent, so the logo shows how the name is said: ka-PÉ (Lee, 20 Oct 2026).
 
 | File | Use |
 |---|---|
 | `kapeme-logo-on-dark.png`, `kapeme-logo-on-light.png` | **Main logo**, for coffee and paper grounds |
-| `kapeme-icon.svg` | **Icon**: the coffee sock dripping into a pot. Profile pictures, corner bug |
+| `kapeme-icon.svg`, `kapeme-icon-on-dark.svg` | **Icon**: the coffee sock on its handle with one drop, on terracotta or coffee. Profile pictures, corner bug |
 | `*.svg` | The same, as vectors. The letters are live Fraunces text loaded from Google Fonts: use the PNGs, and have a designer outline the letters before print or packaging |
-| `concepts/` | Earlier rounds: the sock, siphon and kettle marks; the drip, pot and badge lockups; and other handles (plain wire, fused, arc) |
+| `concepts/` | Earlier rounds: the sock, siphon and kettle marks; the drip, pot and badge lockups; other handles (plain wire, fused, arc); `round-7-stack/` the two-line logo and the sock-and-pot icon; `round-8-accent/` the level-handle version of the current logo |
 
 There is no `share-cards/` folder: the site's pages carry no share image in the repository.
 

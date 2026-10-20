@@ -34,9 +34,9 @@ the dot in the text colour; on a hand-made end card, colour the dot terracotta a
 
 | File | Use in video |
 |---|---|
-| `brand-kit/social/logo-on-dark.png` | Main logo on coffee: kape over the sock's handle, the drip falls to .me on the line below |
+| `brand-kit/social/logo-on-dark.png` | Main logo on coffee: kape.me with the coffee sock as the dot; its handle over "pe" is the stress mark (ka-PÉ) |
 | `brand-kit/social/logo-on-light.png` | Main logo on paper |
-| `brand-kit/logos/kapeme-icon.svg` | Icon: the coffee sock dripping into a pot |
+| `brand-kit/logos/kapeme-icon.svg` | Icon: the coffee sock on its handle, one drop below (`kapeme-icon-on-dark.svg` for coffee grounds) |
 | `brand-kit/social/profile-1024.png` | The coffee-sock mark for channel avatars |
 
 
