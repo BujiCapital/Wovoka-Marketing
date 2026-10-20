@@ -34,7 +34,7 @@ the dot in the text colour; on a hand-made end card, colour the dot terracotta a
 
 | File | Use in video |
 |---|---|
-| `brand-kit/social/logo-on-dark.png` | Main logo on coffee: kape.me with a drop for the dot, the sock's handle as the underline |
+| `brand-kit/social/logo-on-dark.png` | Main logo on coffee: kape over the sock's handle, the drip falls to .me on the line below |
 | `brand-kit/social/logo-on-light.png` | Main logo on paper |
 | `brand-kit/logos/kapeme-icon.svg` | Icon: the coffee sock dripping into a pot |
 | `brand-kit/social/profile-1024.png` | The coffee-sock mark for channel avatars |

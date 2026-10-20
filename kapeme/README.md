@@ -11,8 +11,8 @@ Everything here is a draft and changes by pull request.
 Still to write (copy each from [`../_template/`](../_template/)): `product.md`, `audiences.md`,
 `messages.md`, `guardrails.md`, `key-customer.md`, `content.md`, `video/scripts.md`.
 
-Kape.Me's starter logo: the name kape.me, with a coffee drop for the dot and the wooden handle of a
-Filipino coffee sock as its underline (Lee chose the coffee sock, 19 Oct 2026). A designer should outline the letters before print.
+Kape.Me's starter logo: kape, underlined by the wooden handle of a Filipino coffee sock, whose drip
+falls to the line below to become the dot of .me (Lee chose the coffee sock, 19 Oct 2026). A designer should outline the letters before print.
 
 ## Rules for this brand
 

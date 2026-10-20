@@ -17,9 +17,9 @@ colour, type and video are in [`../brand.md`](../brand.md).
 
 ## Logos (`logos/`)
 
-The logo: **kape.me** set in Fraunces (soft, 640), with a terracotta coffee drop as the dot. The wooden
-handle of a Filipino coffee sock runs underneath as the underline, and the sock hangs from its end under
-".me" (Lee, 20 Oct 2026). The underline breaks around the p.
+The logo, on two lines: **kape** in Fraunces (soft, 640), underlined by the wooden handle of a Filipino
+coffee sock. The sock hangs from the end, and its drip falls to the lower line, where the drop is the dot
+of **.me** (Lee, 20 Oct 2026). The underline breaks around the p.
 
 | File | Use |
 |---|---|
