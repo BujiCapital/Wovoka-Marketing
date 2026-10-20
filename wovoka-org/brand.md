@@ -49,8 +49,9 @@ to land in front of the ring with the wordmark. It is a coded 3D drawing, not AI
 | `hat-film-4x5.mp4` | 1080×1350, feed posts |
 | `hat-film-end-1x1.jpg`, `hat-film-end-4x5.jpg` | The last frame, for a title card or a film's cover |
 
-Use it to open or close the channel's own films, or on its own to introduce the channel. It is a logo, not
-history: never caption it as a picture of his real hat or of the eclipse.
+**Held: do not post it yet.** Lee is saving it for a launch (20 Oct 2026); it goes out first with that launch,
+and this line will say when it is free to use. After that it can open or close the channel's own films. It is a
+logo, not history: never caption it as a picture of his real hat or of the eclipse.
 
 Write the site as **wovoka.org** in posts.
 

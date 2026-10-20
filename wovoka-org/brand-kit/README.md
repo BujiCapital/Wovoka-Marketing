@@ -2,7 +2,7 @@
 
 The logo is a drawing of Wovoka's hat, in `logos/`; how to use it is in [`../brand.md`](../brand.md). The wordmark is "Wovoka" in Fraunces 600.
 
-The logo animated, 10 seconds, square and 4:5, with its last frame as a still, is in `motion/`; how to use it is in [`../brand.md`](../brand.md#the-hat-film-brand-kitmotion).
+The logo animated, 10 seconds, square and 4:5, with its last frame as a still, is in `motion/` (held for a launch: do not post it yet); how to use it is in [`../brand.md`](../brand.md#the-hat-film-brand-kitmotion).
 
 ## Share cards (`share-cards/`)
 
