@@ -1,7 +1,9 @@
 // Renders the social set of a brand kit from <brand>/brand-kit/kit.json.
 // Usage: npm i playwright && node tools/brand-kit/render.mjs <brand-folder> [<brand-folder> ...]
 // Writes <brand>/brand-kit/social/: profile-1024.png, profile-400.png, logo-on-dark.png,
-// logo-on-light.png, cover-linkedin-1584x396.png, cover-facebook-1640x624.png, palette.png.
+// logo-on-light.png, cover-linkedin-1584x396.png, cover-linkedin-page-1128x191.png (drawn at 2x),
+// cover-facebook-1640x624.png, palette.png.
+// --only <prefix> renders just the files whose names start with <prefix>, e.g. --only cover-linkedin-page
 import { chromium } from 'playwright';
 import fs from 'node:fs';
 import path from 'node:path';
@@ -58,6 +60,9 @@ const jobs = kit => [
   ['cover-linkedin-1584x396.png', 1584, 396, 'dark', d => `<div style="text-align:center;padding:0 380px 0 380px">
      <div class="wm" style="font-size:64px;white-space:normal">${esc(kit.tagline)}</div>
      <div class="sub" style="font-size:22px;margin-top:22px"><span class="acc">${esc(kit.url)}</span></div></div>`],
+  ['cover-linkedin-page-1128x191.png', 1128, 191, 'dark', d => `<div style="text-align:center;padding:0 150px">
+     <div class="wm" style="font-size:38px;white-space:normal">${esc(kit.tagline)}</div>
+     <div class="sub" style="font-size:13px;margin-top:12px"><span class="acc">${esc(kit.url)}</span></div></div>`, 2],
   ['cover-facebook-1640x624.png', 1640, 624, 'dark', d => `<div style="text-align:center;padding:0 160px">
      <div class="wm" style="font-size:78px;white-space:normal">${esc(kit.tagline)}</div>
      <div class="sub" style="font-size:26px;margin-top:28px"><span class="acc">${esc(kit.url)}</span></div></div>`],
@@ -73,14 +78,18 @@ const jobs = kit => [
        ${kit.fonts.mono ? `<div><span class="sub" style="font-size:34px;opacity:1">Aa</span> &nbsp;${esc(kit.fonts.mono)} (labels)</div>` : ''}</div></div>`],
 ];
 
+const args = process.argv.slice(2);
+const oi = args.indexOf('--only');
+const only = oi >= 0 ? args.splice(oi, 2)[1] : '';
 const browser = await chromium.launch();
-for (const brand of process.argv.slice(2)) {
+for (const brand of args) {
   const dir = path.join(brand, 'brand-kit');
   const kit = JSON.parse(fs.readFileSync(path.join(dir, 'kit.json'), 'utf8'));
   const out = path.join(dir, 'social');
   fs.mkdirSync(out, { recursive: true });
-  for (const [name, w, h, ground, body] of jobs(kit)) {
-    const p = await browser.newPage({ viewport: { width: w, height: h } });
+  for (const [name, w, h, ground, body, scale = 1] of jobs(kit)) {
+    if (only && !name.startsWith(only)) continue;
+    const p = await browser.newPage({ viewport: { width: w, height: h }, deviceScaleFactor: scale });
     await p.setContent(page(kit, dir, { w, h, ground, body: body(dir) }), { waitUntil: 'networkidle' });
     await p.evaluate(() => document.fonts.ready);
     await p.screenshot({ path: path.join(out, name) });

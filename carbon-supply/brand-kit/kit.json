@@ -1,0 +1,14 @@
+{
+  "name": "Carbon.Supply",
+  "wordmark": "Carbon.Supply",
+  "tagline": "Every registry, read daily.",
+  "url": "carbon.supply",
+  "mark": "logos/mark.svg",
+  "colors": {"bg": "#0b0e0c", "fg": "#f5f2eb", "accent": "#c4a35a", "light_bg": "#f5f2eb", "light_fg": "#0b0e0c"},
+  "fonts": {"head": "IBM Plex Sans", "head_weight": 600, "body": "IBM Plex Sans", "mono": "IBM Plex Mono"},
+  "palette": [
+    {"name": "Near-black", "hex": "#0b0e0c", "use": "Default background"},
+    {"name": "Gold", "hex": "#c4a35a", "use": "The only brand colour: the dot, accents"},
+    {"name": "Cream", "hex": "#f5f2eb", "use": "Paper: emails, print"}
+  ]
+}

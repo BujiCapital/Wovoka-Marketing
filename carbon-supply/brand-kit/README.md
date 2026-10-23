@@ -40,3 +40,9 @@ Every other page's card is at `https://carbon.supply/og/<page>-<hash>.jpg`; the 
 ## Fonts
 
 IBM Plex Sans, IBM Plex Mono and Fraunces, all free from Google Fonts.
+
+## Social set (`social/`)
+
+`cover-linkedin-page-1128x191.png` (drawn at 2256×382) is the LinkedIn page cover, rendered from
+`kit.json` with `node tools/brand-kit/render.mjs --only cover-linkedin-page carbon-supply`. The profile
+picture and Facebook cover stay the hand-made files in `logos/`. Don't render the full set for this brand.
