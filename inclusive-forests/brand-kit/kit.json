@@ -1,0 +1,20 @@
+{
+  "name": "Inclusive Forests",
+  "wordmark": "Inclusive Forests",
+  "wordmark_sub": "People · Nature · Prosperity",
+  "wordmark_tracking": "0",
+  "tagline": "Their Land. Their Forest. Their Future.",
+  "url": "inclusiveforests.org",
+  "mark": "logos/mark-footer.png",
+  "mark_text": "IF",
+  "colors": {"bg": "#1A3C2A", "fg": "#FAF7F2", "accent": "#52B788", "light_bg": "#FAF7F2", "light_fg": "#1A3C2A"},
+  "fonts": {"head": "Playfair Display", "head_weight": 700, "body": "DM Sans"},
+  "palette": [
+    {"name": "Forest deep", "hex": "#1A3C2A", "use": "Headlines, footer"},
+    {"name": "Leaf green", "hex": "#52B788", "use": "Buttons, highlights"},
+    {"name": "Sun orange", "hex": "#E67E22", "use": "Second accent"},
+    {"name": "Teal", "hex": "#2A9D8F", "use": "Water, small accents"},
+    {"name": "Amber", "hex": "#D4A259", "use": "Small accents"},
+    {"name": "Earth brown", "hex": "#6B4226", "use": "Small accents"}
+  ]
+}

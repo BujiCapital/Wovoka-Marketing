@@ -1,0 +1,18 @@
+{
+  "name": "Mindoro Coffee",
+  "wordmark": "Mindoro Coffee",
+  "wordmark_sub": "Four species · One island · 12.58°N 121.51°E",
+  "tagline": "Four species. One island.",
+  "url": "mindorocoffee.com",
+  "mark": "logos/favicon.svg",
+  "colors": {"bg": "#2A1F18", "fg": "#F5F0E6", "accent": "#B9832F", "light_bg": "#F5F0E6", "light_fg": "#1C1410"},
+  "fonts": {"head": "DM Serif Display", "head_weight": 400, "body": "DM Sans", "mono": "JetBrains Mono"},
+  "palette": [
+    {"name": "Espresso", "hex": "#2A1F18", "use": "Default background"},
+    {"name": "Cream", "hex": "#F5F0E6", "use": "Wordmark, text on dark, light sections"},
+    {"name": "Robusta", "hex": "#7D1C17", "use": "Cherry, graphic only"},
+    {"name": "Arabica", "hex": "#A8241C", "use": "Cherry; links on cream"},
+    {"name": "Excelsa", "hex": "#B9832F", "use": "Cherry; accent text on dark"},
+    {"name": "Liberica", "hex": "#C45A24", "use": "Cherry; large accents on dark"}
+  ]
+}

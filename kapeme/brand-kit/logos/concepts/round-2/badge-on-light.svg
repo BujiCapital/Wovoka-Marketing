@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400"><defs><style>@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&amp;family=Inter:wght@600&amp;display=block');</style></defs>
+  <circle cx="200" cy="200" r="190" fill="none" stroke="#C8553D" stroke-width="8"/>
+  <circle cx="200" cy="200" r="150" fill="none" stroke="#D4A574" stroke-width="2"/>
+  <path id="top" d="M42 200 A158 158 0 0 1 358 200" fill="none"/>
+  <path id="bot" d="M32 200 A168 168 0 0 0 368 200" fill="none"/>
+  <text font-family="Fraunces" font-weight="700" font-size="34" fill="#1A0F07" letter-spacing="8"><textPath href="#top" startOffset="50%" text-anchor="middle">KAPE.ME</textPath></text>
+  <text font-family="Inter" font-weight="600" font-size="16" fill="#D4A574" letter-spacing="5"><textPath href="#bot" startOffset="50%" text-anchor="middle">PHILIPPINE COFFEE</textPath></text>
+  <g transform="translate(140,105) scale(1.2)">
+  <path d="M30 22 H10" stroke="#D4A574" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="50" cy="22" rx="20" ry="5" fill="none" stroke="#D4A574" stroke-width="4"/>
+  <path d="M31 23 C33 40 40 52 47 57 C49 58.5 51 58.5 53 57 C60 52 67 40 69 23 Z" fill="#C8553D"/>
+  <path d="M38 30 C41 40 45 47 50 51" stroke="#FAFAF7" stroke-opacity=".35" stroke-width="2" fill="none" stroke-linecap="round"/></g>
+  <path d="M200 184 C198 189 195 192 195 195 a5 5 0 0 0 10 0 C205 192 202 189 200 184 Z" fill="#C8553D"/>
+  <rect x="152" y="210" width="96" height="10" rx="5" fill="#D4A574"/>
+  <path d="M158 218 H242 L236 262 C235 268 231 272 225 272 H175 C169 272 165 268 164 262 Z" fill="#D4A574"/></svg>

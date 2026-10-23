@@ -1,0 +1,55 @@
+{
+  "name": "Kape.Me",
+  "wordmark": "kape.me",
+  "wordmark_sub": "The guide to Philippine coffee",
+  "wordmark_tracking": "-0.02em",
+  "tagline": "The ultimate guide to Philippine coffee",
+  "url": "kape.me",
+  "colors": {
+    "bg": "#1A0F07",
+    "fg": "#FAFAF7",
+    "accent": "#C8553D",
+    "light_bg": "#FAFAF7",
+    "light_fg": "#1A0F07"
+  },
+  "fonts": {
+    "head": "Fraunces",
+    "head_weight": 600,
+    "body": "Inter"
+  },
+  "palette": [
+    {
+      "name": "Coffee",
+      "hex": "#1A0F07",
+      "use": "Dark ground, hero, footer"
+    },
+    {
+      "name": "Terracotta",
+      "hex": "#C8553D",
+      "use": "Brand colour: the dot, buttons, links"
+    },
+    {
+      "name": "Caramel",
+      "hex": "#D4A574",
+      "use": "Eyebrows and Tagalog lines on dark"
+    },
+    {
+      "name": "Forest",
+      "hex": "#2D6A4F",
+      "use": "Region and sustainability tags"
+    },
+    {
+      "name": "Paper",
+      "hex": "#FAFAF7",
+      "use": "Page ground"
+    },
+    {
+      "name": "Stone",
+      "hex": "#1C1917",
+      "use": "Body text on light"
+    }
+  ],
+  "mark": "logos/kapeme-icon.svg",
+  "logo_dark": "logos/kapeme-logo-on-dark.png",
+  "logo_light": "logos/kapeme-logo-on-light.png"
+}

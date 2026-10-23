@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="20 0 470 220"><defs><style>@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&amp;family=Inter:wght@600&amp;display=block');</style></defs>
+  <text x="40" y="170" font-family="Fraunces" font-weight="600" font-size="120" fill="#FAFAF7" letter-spacing="-2">kape</text>
+  <text x="300" y="170" font-family="Fraunces" font-weight="600" font-size="120" fill="#FAFAF7" letter-spacing="-2">me</text>
+  <g transform="translate(233,2) scale(1)">
+  <path d="M30 22 H10" stroke="#D4A574" stroke-width="4" stroke-linecap="round"/>
+  <ellipse cx="50" cy="22" rx="20" ry="5" fill="none" stroke="#D4A574" stroke-width="4"/>
+  <path d="M31 23 C33 40 40 52 47 57 C49 58.5 51 58.5 53 57 C60 52 67 40 69 23 Z" fill="#C8553D"/>
+  <path d="M38 30 C41 40 45 47 50 51" stroke="#FAFAF7" stroke-opacity=".35" stroke-width="2" fill="none" stroke-linecap="round"/></g>
+  <path d="M283 70.3 C281.6 73.8 279.5 75.9 279.5 78 a3.5 3.5 0 0 0 7 0 C286.5 75.9 284.4 73.8 283 70.3 Z" fill="#C8553D"/>
+  <path d="M283 138 C279 148 273 154 273 160 a10 10 0 0 0 20 0 C293 154 287 148 283 138 Z" fill="#C8553D"/></svg>
