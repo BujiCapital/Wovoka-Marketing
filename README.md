@@ -13,6 +13,7 @@ public on our own websites.
 | Folder | Brand | Website |
 |---|---|---|
 | [`carbon-supply/`](carbon-supply/) | Carbon.Supply: carbon registry data, weekly editions and an AI analyst | https://carbon.supply |
+| [`wovoka-org/`](wovoka-org/) | wovoka.org: the story of Wovoka and the West in his lifetime, from the published record (stricter rules: no presenter, no people) | https://www.wovoka.org |
 | [`wovoka/`](wovoka/) | Wovoka: the company (starter brand kit) | https://www.wovoka.io |
 | [`wovoka-advisory/`](wovoka-advisory/) | Wovoka Advisory, our sister firm (starter brand kit) | https://www.wovokagroup.com |
 | [`wovoka-studio/`](wovoka-studio/) | Wovoka Studio (starter brand kit) | https://wovoka.dev |
